@@ -427,6 +427,10 @@ and more.
   subscriptions, salaries, vesting, and rewards to DAOs and crypto-native
   businesses worldwide.
 
+- **[sunwatch](https://sunwatch.sunfamily.xyz)**: Crypto-paid uptime monitoring
+  for side projects. Add a URL and webhook, send the exact USDC amount on Base,
+  and the monitor auto-activates. No accounts, no KYC, no monthly subscription.
+
 - **[Syndicate](https://syndicate.io/)**: Syndicate is a platform that allows
   customers to create communities, products, and experiences onchain at
   enterprise scale.
